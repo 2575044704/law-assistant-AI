@@ -3,7 +3,7 @@
 此模型适用于律师、法律工作者、学生及普通公众，帮助他们在法律事务中获得可靠的参考和支持。模型的目标是提高法律咨询的效率和准确性，为用户提供便捷的法律服务体验。
 > Tutorial：https://github.com/InternLM/Tutorial <br>
 ## 架构图
-![无标题](https://github.com/user-attachments/assets/61b2731b-1e68-4f33-8d53-8aad468db5fd)
+![无标题](https://github.com/user-attachments/assets/44962e4e-7816-46ef-8235-272b588feb3d)
 
 # 模型特点
 
